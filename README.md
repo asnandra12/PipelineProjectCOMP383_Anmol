@@ -9,4 +9,5 @@ With the python script you will also need these packages:
 - Kallisto
 - Sleuth
 - Pandas
+
 When attempting to run the pipeline, please clone the repository. Then please run the python file "PipelineProject.py", it will copy the other files itself and no other action is needed.
