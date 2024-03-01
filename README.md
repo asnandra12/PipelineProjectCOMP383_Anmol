@@ -10,4 +10,4 @@ With the python script you will also need these packages:
 - Sleuth
 - Pandas
 
-When attempting to run the pipeline, please clone the repository. Then please run the python file "PipelineProject.py", it will copy the other files itself and no other action is needed.
+When attempting to run the pipeline, please clone the repository. Then please run the python file "PipelineProject.py", it will copy the other files itself and no other action is needed. One db file is missing from the repo as I am unable to upload it to Git due to file size. Instead please download blast+ the run the command makeblastdb -in sequence.fasta -out dbHerpes -title dbHerpes -dbtype nucl this makes the db on your local device using the sequence.fasta file I've provided.  
